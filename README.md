@@ -14,3 +14,5 @@ You can then view the "Inspection Cycles" tab which will be automatically popula
 The sheet is setup to determine works prior to the new legislation also, should you have pasted a longer duration of inspections into the sheet.
 
 NOTE: You will need to delete the export data and recreate and redownload new data each time, to ensure any changes in inspections are shown.
+
+NOTE: Remember, this will flag items you may already have escalated, so will need to check which have already elcalated.
